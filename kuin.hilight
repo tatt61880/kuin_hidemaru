@@ -3,7 +3,7 @@
 177,const|class|enum
 307,case|default
 307,func
-113,int|byte8|byte16|byte32|byte64|sbyte8|sbyte16|sbyte32|sbyte64|float|char|bool|list|stack|queue|dict
+113,int|byte8|byte16|byte32|byte64|float|char|bool|list|stack|queue|dict
 307,if|else|elif|switch|while|for|foreach|throw|try|catch|finally
 307,skip|block|end|var|do|break|return|continue|assert|ifdef|dbg|rls
 49,true|false|null|inf
@@ -165,6 +165,9 @@
 /[51][0]:0x00FF0000
 /[51][1]:0x01000005
 /[51][2]:0x00000000
+/[52][0]:0x01000008
+/[52][1]:0x01000005
+/[52][2]:0x00000000
 /<ColorSetEx>
 /CurLineColorEx:0x00FF0000
 /RulerColorEx:0xFFFFFFFF
