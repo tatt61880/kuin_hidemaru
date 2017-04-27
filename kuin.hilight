@@ -3,9 +3,9 @@
 177,const|class|enum
 307,case|default
 307,func
-113,int|byte8|byte16|byte32|byte64|float|char|bool|list|stack|queue|dict
+113,int|bit8|bit16|bit32|bit64|float|char|bool|list|stack|queue|dict
 307,if|else|elif|switch|while|for|foreach|throw|try|catch|finally
-307,skip|block|end|var|do|break|return|continue|assert|ifdef|dbg|rls
+307,skip|block|end|var|do|break|ret|assert|ifdef|dbg|rls
 49,true|false|null|inf
 113,to
 /<ColorSet>
