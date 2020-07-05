@@ -1,5 +1,5 @@
-49,\w+
-113,\w*@\w*
+49,[A-Za-z_0-9]+
+113,[A-Za-z_0-9]*@[A-Za-z_0-9]*
 177,const|class|enum
 177,case|default
 177,func
